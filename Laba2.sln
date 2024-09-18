@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba2", "Laba2.csproj", "{A6892E5F-5139-49B8-A8BF-E9EA19B63BAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{FC0B90F4-B7F5-40C2-8DB3-6D14F7918506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2test", "..\laba2test\laba2test.csproj", "{1301652F-007C-4B60-BA48-B2014CCB29AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6892E5F-5139-49B8-A8BF-E9EA19B63BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6892E5F-5139-49B8-A8BF-E9EA19B63BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6892E5F-5139-49B8-A8BF-E9EA19B63BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6892E5F-5139-49B8-A8BF-E9EA19B63BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1301652F-007C-4B60-BA48-B2014CCB29AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1301652F-007C-4B60-BA48-B2014CCB29AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1301652F-007C-4B60-BA48-B2014CCB29AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1301652F-007C-4B60-BA48-B2014CCB29AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D01E597C-E749-46D6-97F7-FE8334F98369}
+	EndGlobalSection
+EndGlobal
